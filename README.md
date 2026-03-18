@@ -218,5 +218,3 @@ gcloud run deploy cleanaddress --source . --port 3000 --set-env-vars GOOGLE_API_
 MIT License. Feel free to modify and use for your own projects.
 
 ---
-
-**Built by Coronation Technology**
