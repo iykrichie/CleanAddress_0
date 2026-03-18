@@ -1,0 +1,5 @@
+{
+  "name": "CleanAddress",
+  "description": "Validates and standardizes Nigerian addresses using Google Address Validation API and fuzzy matching.",
+  "requestFramePermissions": []
+}
